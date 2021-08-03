@@ -1,0 +1,41 @@
+.section {
+    height: 80px;
+}
+
+#blue {
+    background-color:steelblue;
+
+}
+#teal {
+    background-color: turquoise;
+}
+#eggwhite {
+    background-color: rgb(185, 209, 132);
+}
+#yellow {
+    background-color: yellow;
+}
+
+header {
+    background-color: rgb(182, 182, 182);
+}
+
+.main {
+    height : 300px;
+}
+
+#icon {
+    background-color: steelblue;
+    height : 50px;
+    width : 50px;
+    left: 20px;
+    top: 15px;
+    position: relative;
+}
+
+blockquote {
+    font-size: 30px;
+    color: gray;
+    margin-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
