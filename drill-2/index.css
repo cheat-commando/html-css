@@ -1,0 +1,71 @@
+.firstBox {
+    border-width : 5px;
+    border-style: solid;
+    border-color: black;
+    width: 33%;
+    height: 100px;
+    margin: 30px;
+}
+
+.secondBox {
+    border-style: dotted;
+    border-color: black;
+    width: 33%;
+    margin : 30px;
+    height : 100px;
+}
+
+.thirdBox {
+    border-color: gray;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 2px gray;
+    width: 20%;
+    margin-left: 10%
+}
+
+#pinkBox {
+    background-color: rgb(253, 214, 227);
+    width : 80%;
+    height : 50%;
+    box-shadow: 3px 3px 3px black;
+    margin: 30px;
+}
+
+#purple {
+    background-color: purple;
+    position: absolute;
+    width : 10px;
+    height : 40px;
+    margin : 10px;
+    top: 80px
+}
+
+#green {
+    background-color: green;
+    height: 70%;
+    margin: 10px;
+    width: 50%;
+    left: 50px;
+    position: relative;
+}
+
+#circle {
+    background-color: skyblue;
+    height: 50%;
+    padding: 5%;
+    width : 50px;
+    position : relative;
+    border-radius: 100px;
+    right : -70%;
+    top : -87%;
+}
+
+#friend {
+    text-align: center;
+    padding: 30px;
+    letter-spacing: 3px;
+    color: blue;
+    font-size: 20px;
+    text-emphasis:initial;
+}
